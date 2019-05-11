@@ -1,4 +1,4 @@
-#LoanProcessor Overview
+# LoanProcessor Overview
 Federal and state laws regulate the fees that lenders can charge for processing mortgages.  While most regulations fall into standard categories, states often define their own limits they place on the total fees that can be charged.  Lenders need a way to tell whether a given loan passes all the regulatory compliance checks.
 
 # Instructions
